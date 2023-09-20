@@ -2,6 +2,8 @@
     "files.associations": {
         "user.h": "c",
         "types.h": "c",
-        "proc.h": "c"
+        "proc.h": "c",
+        "stat.h": "c",
+        "fs.h": "c"
     }
 }
